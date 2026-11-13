@@ -1,6 +1,7 @@
 # AttendanceTracker
 
-A small Flask app exposing GraphQL specifications for attendance queries.
+A small Flask app exposing a REST API for tracking employee attendance.
+GraphQL specifications for attendance queries are also available.
 
 ## Setup
 
